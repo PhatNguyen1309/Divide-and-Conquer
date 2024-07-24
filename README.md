@@ -3,7 +3,7 @@ Tổng 1 --> n
 Tổng 1 --> n (đệ quy)
 ![DeQuy_ketqua](https://github.com/user-attachments/assets/1928c439-5bf0-4389-8a10-3cf19e179ab5)
 QuickSort
-[![QuickSort](https://github.com/user-attachments/assets/07b4b30e-78ff-4587-baa8-e022e64c81f7)
+https://github.com/user-attachments/assets/07b4b30e-78ff-4587-baa8-e022e64c81f7
 Tìm kiếm nhị phân
 ![Timkiem_ketqua](https://github.com/user-attachments/assets/9e59f621-d1f2-43bb-b4d3-0a9ff8f37abc)
 Tìm kiếm nhị phân (đệ quy)
